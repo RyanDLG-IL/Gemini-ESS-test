@@ -1,3 +1,7 @@
 streamlit
 openai
 google-generativeai
+python-dotenv
+PyPDF2
+python-docx
+Pillow
